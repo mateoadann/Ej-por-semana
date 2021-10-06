@@ -72,4 +72,3 @@ def multiplo(a, b):
 
 def multiplicando(*nums):
     total = 0
-    for
