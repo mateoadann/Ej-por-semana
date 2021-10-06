@@ -11,3 +11,5 @@ precio_tarjeta = float(precio_lista + recargo)
 print('El precio contado es $ ', precio_contado)
 print('El precio con tarjeta es $ ', precio_tarjeta)
 print('FIN')
+
+print('Probando cosas con el GIT')
