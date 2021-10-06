@@ -70,5 +70,3 @@ def multiplo(a, b):
 
 """print(sumando(21, 1000, 420, 12))"""
 
-def multiplicando(*nums):
-    total = 0
